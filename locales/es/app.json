@@ -96,8 +96,8 @@
       "Th": "Ju",
       "F": "Vi",
       "S": "Sá",
-  "todos": "Todos",
-    "newTodo": "Nuevo Todo",
+  "todos": "Tareas",
+    "newTodo": "Nueva Tarea",
     "dueDate": "Fecha de Vencimiento",
     "remaining": "Pendientes",
     "complete": "Completos",
@@ -113,8 +113,8 @@
 
 
 "_commentdrops" : "DROP SYSTEM",
-  "dropsEnabled" : "¡Caídas Habilitadas!",
-    "dropsEnabledText1" : "¡Has desbloqueado el Sistema de Caídas! Ahora cuando completas tareas, tienes una pequeña chance de encontrar un ítem. Y adivina qué, has encontrado un",
+  "dropsEnabled" : "¡Recompensas Habilitadas!",
+    "dropsEnabledText1" : "¡Has desbloqueado el Sistema de Recompensas! Ahora cuando completas tareas, tienes una pequeña probabilidad de encontrar un ítem. Y adivina qué, has encontrado un",
     "dropsEnabledText2" : "huevo",
   "itemDropped" : "Ha caído un ítem",
 
